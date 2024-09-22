@@ -26,6 +26,8 @@ Sado 24 is a platform that brings together all podcasts in one place.
 - Follow podcasts
 - Save podcasts
 - Filter podcasts by your interests
+- **Supported Languages**: Uzbek, Russian, English
+
 
 
 ### 4.1 Functional Requirements
