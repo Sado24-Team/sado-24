@@ -12,15 +12,23 @@
 - **Libraries**: Telebot (for Telegram bot integration)
 
 ## 3. Project Purpose
-Building a program that collects all podcasts in CIS countries in one place.
+Sado 24 is a platform that brings together all podcasts in one place.
 
 ## 4. Conceptual Model
-- Select Convenient Language  
-- Choose Your Interests  
-- Podcasts  
-- Follower Podcasts  
-- Trending Podcasts  
+- Choose a preferred language
+- View and listen to all podcasts
+- Listen to podcasts by specific topics
+- Listen to episodes of selected podcasts
+- Use time stamps for easy navigation
+- View and listen to top podcasts
+- Get quick summaries of podcasts with AI
+- Quickly find topics with AI
+- Follow podcasts
+- Save podcasts
+- Filter podcasts by your interests
 - **Supported Languages**: Uzbek, Russian, English
+
+
 
 ### 4.1 Functional Requirements
 - The podcasts section works through an admin panel, where podcasts go through moderation.
@@ -37,6 +45,12 @@ Building a program that collects all podcasts in CIS countries in one place.
 
 ## 6. Integrations
 - Telegram bot (via Telebot library)
+
+### Participant Roles:
+
+- **IBROKHIM ABDURAKHMONOV** - Product Manager
+- **JAMSHID MA'RUF** - Backend Developer
+- **MUHAMMAD UMARQULOV** - Web Developer, Backend Developer
 
 ## 7. Additional Information
 - **Database Diagram**: 
